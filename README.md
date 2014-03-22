@@ -7,59 +7,58 @@ This list is simply a readme on github, but it was originaly compiled by Chris L
 
 
 
-Twitter
+Twitter  
 ```http://twitter.com/home?status=[TITLE]+[URL]```
 
-Pintrest
+Pintrest  
 ```http://pinterest.com/pin/create/bookmarklet/?media=[MEDIA]&url=[URL]&is_video=false&description=[TITLE]```
 
-Facebook
+Facebook  
 ```http://www.facebook.com/share.php?u=[URL]&title=[TITLE]```
 
-Google plus
+Google plus  
 ```https://plus.google.com/share?url=[URL]```
 
-Reddit
+Reddit  
 ```http://www.reddit.com/submit?url=[URL]&title=[TITLE]```
 
-Delicious
+Delicious  
 ```http://del.icio.us/post?url=[URL]&title=[TITLE]]&notes=[DESCRIPTION]```
 
-Tapiture
+Tapiture  
 ```http://tapiture.com/bookmarklet/image?img_src=[IMAGE]&page_url=[URL]&page_title=[TITLE]&img_title=[TITLE]&img_width=[IMG WIDTH]img_height=[IMG HEIGHT]```
 
-Stumble upon
+Stumble upon  
 ```http://www.stumbleupon.com/submit?url=[URL]&title=[TITLE]```
 
-Linked-in
+Linked-in  
 ```http://www.linkedin.com/shareArticle?mini=true&url=[URL]&title=[TITLE]&source=[SOURCE/DOMAIN]```
 
-Slashdot
+Slashdot  
 ```http://slashdot.org/bookmark.pl?url=[URL]&title=[TITLE]```
 
-Technorati
+Technorati  
 ```http://technorati.com/faves?add=[URL]&title=[TITLE]```
 
-Posterous
+Posterous  
 ```http://posterous.com/share?linkto=[URL]```
 
-Tumblr
+Tumblr  
 ```http://www.tumblr.com/share?v=3&u=[URL]&t=[TITLE]```
 
-Google bookmarks
+Google bookmarks  
 ```http://www.google.com/bookmarks/mark?op=edit&bkmk=[URL]&title=[title]&annotation=[DESCRIPTION]```
 
-
-Newsvine
+Newsvine  
 ```http://www.newsvine.com/_tools/seed&save?u=[URL]&h=[TITLE]```
 
-Ping.fm
+Ping.fm  
 ```http://ping.fm/ref/?link=[URL]&title=[TITLE]&body=[DESCRIPTION]```
 
-Evernote
+Evernote  
 ```http://www.evernote.com/clip.action?url=[URL]&title=[TITLE]```
 
-Friendfeed
+Friendfeed  
 ```http://www.friendfeed.com/share?url=[URL]&title=[TITLE]```
 
 
